@@ -19,5 +19,5 @@ Don't use a number followed by a period when making an unordered list for some r
 * You can preserve the continuity of the list by pressing tab before adding an extra element.  
   Info  
 * Now the list is preserved.  
-You can use the backtick key for denoting a line of `code`. 
+``You can use the backtick key for denoting a line of `code`.``
 Use two backticks before and after the line to ignore the backticks.
