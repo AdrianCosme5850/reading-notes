@@ -15,3 +15,4 @@ Three *** or ___ makes a word ***bold and italicized***.
 
 Symbols -, *, and + can all be used to create unordered lists.  
 You can indent the lists to create a sub list.  
+* 1968
