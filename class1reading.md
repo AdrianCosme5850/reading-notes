@@ -26,6 +26,6 @@ Use brackets for the word you want to be the link, then follow it up with parent
 Quotation marks after the URL can change the popup text that appears.  
 Angle brackets < can be used to quickly paste a URL. <https://www.markdownguide.org/basic-syntax/>  
 You can also use a reference style system for your links [Cats][1]  
-
+![Cat poster]("C:\Users\berna\Downloads\1920px-Cat_poster_1.jpg")
 
 [1]: https://en.wikipedia.org/wiki/Cat
