@@ -10,6 +10,8 @@ Three *** or ___ makes a word ***bold and italicized***.
 
 > This symbol > makes a block quote.  
 > multiple lines with > make the block quote longer.
-> > Doubling the >> makes the block quote nested.
+> > Doubling the >> makes the block quote nested.  
 > > Ensure to add a blank line before and after block quotes for compatability purposes.  
 
+Symbols -, *, and + can all be used to create unordered lists.  
+You can indent the lists to create a sub list.  
