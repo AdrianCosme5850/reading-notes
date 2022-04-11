@@ -23,5 +23,7 @@ You can use the backtick key for denoting a line of code.
 Use two backticks before and after the line to ignore the backticks.  
 I got all this information from a single [webpage](https://www.markdownguide.org/basic-syntax/ "Meow")  
 Use brackets for the word you want to be the link, then follow it up with parentheses of the URL.  
-Angle brackets < can be used to quickly paste a URL. <https://www.markdownguide.org/basic-syntax/>
-
+Quotation marks after the URL can change the popup text that appears.  
+Angle brackets < can be used to quickly paste a URL. <https://www.markdownguide.org/basic-syntax/>  
+You can also use a reference style system for your links. [Cats][1]
+[1]:https://en.wikipedia.org/wiki/Cat
