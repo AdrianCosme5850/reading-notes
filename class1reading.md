@@ -16,6 +16,6 @@ Three *** or ___ makes a word ***bold and italicized***.
 Symbols -, *, and + can all be used to create unordered lists.  
 You can indent the lists to create a sub list.  
 Don't use a number followed by a period when making an unordered list for some reason?  
-*You can preserve the continuity of the list by pressing tab before adding an extra element.  
-  Info
-*Now the list is preserved.
+* You can preserve the continuity of the list by pressing tab before adding an extra element.  
+  Info  
+* Now the list is preserved.
