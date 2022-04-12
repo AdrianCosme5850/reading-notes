@@ -7,6 +7,6 @@ A few reminders for staying in the growth mindset:
 * Take constructive criticism seriously and use it for self reflection!  
 * People's achievements are them taking part in the growth mindset!  
 
-My name is Adrian Cosme-Halverson, you can see my portfolio [Here][1]  
+My name is Adrian Cosme-Halverson, you can see my portfolio[Here][1] 
 
 [1] https://adriancosme5850.github.io/reading-notes/
