@@ -9,4 +9,4 @@ A few reminders for staying in the growth mindset:
 
 > My name is Adrian Cosme-Halverson, you can see my portfolio [Here][1] 
 
-[1]: https://adriancosme5850.github.io/reading-notes/
+[1]: https://github.com/AdrianCosme5850
