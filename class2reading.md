@@ -1,4 +1,4 @@
-#Text editors  
+# Text editors  
 
 Text editors allow you to write text in way that is condusive to building websites  
 Important features when choosing a text editor include:
@@ -11,7 +11,7 @@ Important features when choosing a text editor include:
 * extension support  
   > Increases the text editor's ability along with your own  
 
-#Text editor options  
+# Text editor options  
 All computers come with text editors, howevers these are lacking features  
 Third party options:  
 * Notepad ++  
@@ -21,7 +21,7 @@ Third party options:
 * Atom  
   > Developed by Github with a decent size community and features.  
 
-#Command Line  
+# Command Line  
 The command line is a text based interface used instead of or in conjunction with the graphical user interface.  
 Commands are typed into the Terminal with arguments following. The first argument is called an option and can modify  
 the behavior of the command.  
