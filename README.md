@@ -1,12 +1,12 @@
-# The Growth Mindset  
-The Growth Mindset is basically viewing challenges not as a time sink but an opportunity to ***grow***.  
-This is opposed to someone in a fixed mindset that believes these obstacles only act as time sinks.  
-A few reminders for staying in the growth mindset:  
+# Reading Notes  
 
-* What doesn't kill you makes you stronger!  
-* Take constructive criticism seriously and use it for self reflection!  
-* People's achievements are them taking part in the growth mindset!  
+This is a small page I've built to store and easily access my reading notes for the CodeFellows 102 course.  
 
-> My name is Adrian Cosme-Halverson, you can see my portfolio [Here][1] 
+* [Growth Mindset](Growthmindset.md)  
+* [Reading Notes 1](class1reading.md)  
+* [Reading Notes 2](class2reading.md)  
+* [Reading Notes 3](class3reading.md)  
+
+> My name is Adrian Cosme-Halverson, you can see my portfolio [here][1]. 
 
 [1]: https://github.com/AdrianCosme5850
