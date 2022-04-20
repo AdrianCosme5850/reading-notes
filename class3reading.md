@@ -1,4 +1,4 @@
-#Git Guide  
+# Git Guide  
 
 Version control allows you to visit or revert to previous versions of a projects.  
 Local stores a version on your computer  
