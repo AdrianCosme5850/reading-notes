@@ -2,6 +2,7 @@
 
 This is a small page I've built to store and easily access my reading notes for the CodeFellows 102 course.  
 
+* [Professional Competencies](professionalcompetencies.md)
 * [Growth Mindset](growthmindset.md)  
 * [Reading Notes 1](class1reading.md)  
 * [Reading Notes 2](class2reading.md)  
