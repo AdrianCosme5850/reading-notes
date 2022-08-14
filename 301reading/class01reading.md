@@ -38,4 +38,12 @@ There are many advantages to using componenet design at all levels.
 Props stands for properties and passes data from one component to another.  
 Props are only passed from the parent to the child.  
 
-Props allows for dynamic outputs form the child componenet.  
+Props allows for dynamic outputs form the child componenet.
+ 
+1. A component is a reusable and flexable set of functionalities.  
+2. The characteristics of a componenet are Reusability, replacability, extensiblility, and independence.  
+3. The main advantages of using componenet based architecture is ease of deployment, reduced cost, ease of developement, reusablity, and reliability.  
+4. Props is short for properties.  
+5. Props pass data from one componenet to another.  
+6. Prop data flow is uni-directional form the parent to the child only.  
+
