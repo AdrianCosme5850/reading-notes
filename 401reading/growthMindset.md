@@ -5,3 +5,5 @@
 * Believing you can improve is important, as being discouraged can lead a person to stop. However, perserverance always leads to results.  
 
 I have definately grown in self management. It's an area I worked on during 301, and I feel like I've made good progress.  
+
+My meaningful connection bias has improved greatly through networking events. 
