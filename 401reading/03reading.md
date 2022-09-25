@@ -17,4 +17,3 @@
 1. An Express Router is like a mini-Express application that provides routing APIs.  
 2. router.use makes the server use our express router.  
 3. Routes can use middleware for things like searching for parameters and throwing errors when there isn't one.  
-
