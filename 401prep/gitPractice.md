@@ -1,0 +1,18 @@
+# Git practice  
+
+![git Practice](/401prep/gitImgs/git1.png)
+![git Practice](/401prep/gitImgs/git2.png)
+![git Practice](/401prep/gitImgs/git3.png)
+![git Practice](/401prep/gitImgs/git4.png)
+![git Practice](/401prep/gitImgs/git5.png)
+![git Practice](/401prep/gitImgs/git6.png)
+![git Practice](/401prep/gitImgs/git7.png)
+![git Practice](/401prep/gitImgs/git8.png)
+![git Practice](/401prep/gitImgs/git9.png)
+![git Practice](/401prep/gitImgs/git10.png)
+![git Practice](/401prep/gitImgs/git11.png)
+![git Practice](/401prep/gitImgs/git12.png)
+![git Practice](/401prep/gitImgs/git13.png)
+![git Practice](/401prep/gitImgs/git14.png)
+![git Practice](/401prep/gitImgs/git15.png)
+![git Practice](/401prep/gitImgs/git.png)
